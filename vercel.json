@@ -33,10 +33,10 @@
       ]
     },
     {
-      "source": "/(.*).(?:jpg|jpeg|png|webp|svg|ico)",
+      "source": "/(.*)\\.(jpg|jpeg|png|webp|svg|ico)$",
       "headers": [
         {
-          "key": "Cache-Control",
+          "key": "Cache-Control", 
           "value": "public, max-age=86400"
         }
       ]
