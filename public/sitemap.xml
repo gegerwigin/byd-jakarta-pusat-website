@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://mobilbydjakpus.com/</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/byd-logo.png</image:loc>
+      <image:caption>BYD Jakarta Pusat - Dealer Resmi Mobil Listrik</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/seal-hero.jpg</image:loc>
+      <image:caption>BYD SEAL - Sedan Listrik Premium</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/atto3-hero.jpg</image:loc>
+      <image:caption>BYD ATTO 3 - SUV Listrik Kompak</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/dolphin-hero.jpg</image:loc>
+      <image:caption>BYD DOLPHIN - Hatchback Listrik</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/m6-hero.jpg</image:loc>
+      <image:caption>BYD M6 - MPV Listrik Keluarga</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/sealion7-hero.jpg</image:loc>
+      <image:caption>BYD SEALION 7 - SUV Listrik Premium</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/sales-photo.jpg</image:loc>
+      <image:caption>Daniel Julianto - Sales Leader BYD Jakarta Pusat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/location-banner.webp</image:loc>
+      <image:caption>Showroom BYD Jakarta Pusat - Lokasi Samanhudi</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Product Pages (Virtual) -->
+  <url>
+    <loc>https://mobilbydjakpus.com/#seal</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/seal-hero.jpg</image:loc>
+      <image:caption>BYD SEAL - Sedan Listrik Premium Rp 718 Juta</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mobilbydjakpus.com/#atto3</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/atto3-hero.jpg</image:loc>
+      <image:caption>BYD ATTO 3 - SUV Listrik Kompak Rp 398 Juta</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mobilbydjakpus.com/#dolphin</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/dolphin-hero.jpg</image:loc>
+      <image:caption>BYD DOLPHIN - Hatchback Listrik Rp 355 Juta</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mobilbydjakpus.com/#m6</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/m6-hero.jpg</image:loc>
+      <image:caption>BYD M6 - MPV Listrik Keluarga Rp 428 Juta</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://mobilbydjakpus.com/#sealion7</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/sealion7-hero.jpg</image:loc>
+      <image:caption>BYD SEALION 7 - SUV Listrik Premium Rp 629 Juta</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact/Sales Section -->
+  <url>
+    <loc>https://mobilbydjakpus.com/#sales</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/sales-photo.jpg</image:loc>
+      <image:caption>Daniel Julianto - Sales Leader BYD Jakarta Pusat - WhatsApp 0812 9334 2824</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Location Section -->
+  <url>
+    <loc>https://mobilbydjakpus.com/#location</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://mobilbydjakpus.com/location-banner.webp</image:loc>
+      <image:caption>Showroom BYD Jakarta Pusat - Jl. Samanhudi No.26, Jakarta Pusat</image:caption>
+    </image:image>
+  </url>
+
+</urlset> 

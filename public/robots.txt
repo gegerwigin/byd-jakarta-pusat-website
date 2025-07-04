@@ -1,8 +1,10 @@
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 1
 
 User-agent: Bingbot
 Allow: /
+Crawl-delay: 1
 
 User-agent: Twitterbot
 Allow: /
@@ -12,3 +14,18 @@ Allow: /
 
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://mobilbydjakpus.com/sitemap.xml
+
+# High Priority Pages for Crawling
+# Homepage: https://mobilbydjakpus.com/
+# BYD SEAL: https://mobilbydjakpus.com/#seal
+# BYD ATTO 3: https://mobilbydjakpus.com/#atto3
+# BYD DOLPHIN: https://mobilbydjakpus.com/#dolphin
+# BYD M6: https://mobilbydjakpus.com/#m6
+# BYD SEALION 7: https://mobilbydjakpus.com/#sealion7
+# Sales Contact: https://mobilbydjakpus.com/#sales
+# Showroom Location: https://mobilbydjakpus.com/#location
