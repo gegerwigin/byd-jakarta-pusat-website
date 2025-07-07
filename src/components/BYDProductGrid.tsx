@@ -37,7 +37,7 @@ const BYDProductGrid = () => {
         { label: "360 Nm*", subtitle: "Torsi Maksimum" },
         { label: "AWD*", subtitle: "Penggerak Roda" }
       ],
-      price: "IDR 718,000,000"
+      price: "IDR 639,000,000"
     },
     {
       name: "ATTO 3",
@@ -48,7 +48,7 @@ const BYDProductGrid = () => {
         { label: "310 Nm*", subtitle: "Torsi Maksimum" },
         { label: "FWD*", subtitle: "Penggerak Roda" }
       ],
-      price: "IDR 398,000,000"
+      price: "IDR 390,000,000"
     },
     {
       name: "DOLPHIN",
@@ -59,7 +59,7 @@ const BYDProductGrid = () => {
         { label: "290 Nm*", subtitle: "Torsi Maksimum" },
         { label: "FWD*", subtitle: "Penggerak Roda" }
       ],
-      price: "IDR 355,000,000"
+      price: "IDR 369,000,000"
     },
     {
       name: "M6",
@@ -70,7 +70,7 @@ const BYDProductGrid = () => {
         { label: "310 Nm*", subtitle: "Torsi Maksimum" },
         { label: "FWD*", subtitle: "Penggerak Roda" }
       ],
-      price: "IDR 428,000,000"
+      price: "IDR 383,000,000"
     }
   ];
 
