@@ -128,6 +128,15 @@ const BYDFooter = () => {
                 📱 WhatsApp: 0812 9334 2824
               </li>
               <li className="text-gray-400 text-base">
+                ✉️ Email: <a 
+                  href="mailto:mobilbydjakpus@gmail.com"
+                  className="hover:text-blue-400 transition-colors cursor-pointer"
+                  title="Kirim email ke mobilbydjakpus@gmail.com"
+                >
+                  mobilbydjakpus@gmail.com
+                </a>
+              </li>
+              <li className="text-gray-400 text-base">
                 🕒 Senin - Jumat: 08:00 - 17:00
               </li>
               <li className="text-gray-400 text-base">
