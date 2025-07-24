@@ -37,6 +37,7 @@ const BYDHeader = () => {
     { name: 'SEALION 7', id: 'sealion7-section' },
     { name: 'SEAL', id: 'seal-section' },
     { name: 'ATTO 3', id: 'atto3-section' },
+    { name: 'ATTO 1', id: 'atto1-section' },
     { name: 'DOLPHIN', id: 'dolphin-section' },
     { name: 'M6', id: 'm6-section' }
   ];

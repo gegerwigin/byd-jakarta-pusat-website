@@ -62,6 +62,15 @@ const BYDHeroBanner = () => {
       description: 'SUV kompak elektrifikasi untuk kota modern'
     },
     {
+      tabName: 'ATTO 1',
+      name: 'BYD ATTO 1',
+      leftButtonName: 'Jelajahi',
+      rightButtonName: 'Test Drive',
+      tertiaryButton: 'Dapatkan Penawaran',
+      image: '/atto1-hero.jpg',
+      description: 'City car elektrifikasi terjangkau untuk keluarga'
+    },
+    {
       tabName: 'DOLPHIN',
       name: 'BYD DOLPHIN',
       leftButtonName: 'Jelajahi',

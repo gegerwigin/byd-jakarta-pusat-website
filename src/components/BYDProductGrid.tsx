@@ -51,6 +51,17 @@ const BYDProductGrid = () => {
       price: "IDR 390,000,000"
     },
     {
+      name: "ATTO 1",
+      image: "/atto1-hero.jpg",
+      specs: [
+        { label: "Hingga 380km*", subtitle: "Jarak (NEDC)" },
+        { label: "32.78 kWh*", subtitle: "Kapasitas Baterai" },
+        { label: "136 Nm*", subtitle: "Torsi Maksimum" },
+        { label: "FWD*", subtitle: "Penggerak Roda" }
+      ],
+      price: "IDR 195,000,000"
+    },
+    {
       name: "DOLPHIN",
       image: "/dolphin-hero.jpg",
       specs: [
@@ -80,7 +91,11 @@ const BYDProductGrid = () => {
         <section key={model.name} className="relative min-h-screen">
           {/* Hero Image with Overlay Content */}
           <div 
-            className="relative min-h-screen bg-cover bg-center bg-no-repeat flex items-end"
+            className={`relative min-h-screen bg-cover bg-no-repeat flex items-end ${
+              model.name === 'ATTO 1' 
+                ? 'bg-[center_30%] md:bg-center' // Mobile: posisi 30% dari atas, Desktop: center
+                : 'bg-center'
+            }`}
             style={{ backgroundImage: `url(${model.image})` }}
           >
             {/* Gradient Overlay */}
