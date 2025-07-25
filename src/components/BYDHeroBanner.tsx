@@ -44,6 +44,24 @@ const BYDHeroBanner = () => {
 
   const models = [
     {
+      tabName: 'ATTO 1',
+      name: 'BYD ATTO 1',
+      leftButtonName: 'Jelajahi',
+      rightButtonName: 'Test Drive',
+      tertiaryButton: 'Dapatkan Penawaran',
+      image: '/atto1-hero.jpg',
+      description: 'City car elektrifikasi terjangkau untuk keluarga'
+    },
+    {
+      tabName: 'SEALION 7',
+      name: 'BYD SEALION 7',
+      leftButtonName: 'Jelajahi',
+      rightButtonName: 'Test Drive',
+      tertiaryButton: 'Dapatkan Penawaran',
+      image: '/sealion7-hero.jpg',
+      description: 'SUV elektrifikasi premium dengan teknologi terdepan'
+    },
+    {
       tabName: 'SEAL',
       name: 'BYD SEAL',
       leftButtonName: 'Jelajahi',
@@ -62,15 +80,6 @@ const BYDHeroBanner = () => {
       description: 'SUV kompak elektrifikasi untuk kota modern'
     },
     {
-      tabName: 'ATTO 1',
-      name: 'BYD ATTO 1',
-      leftButtonName: 'Jelajahi',
-      rightButtonName: 'Test Drive',
-      tertiaryButton: 'Dapatkan Penawaran',
-      image: '/atto1-hero.jpg',
-      description: 'City car elektrifikasi terjangkau untuk keluarga'
-    },
-    {
       tabName: 'DOLPHIN',
       name: 'BYD DOLPHIN',
       leftButtonName: 'Jelajahi',
@@ -87,15 +96,6 @@ const BYDHeroBanner = () => {
       tertiaryButton: 'Dapatkan Penawaran',
       image: '/m6-hero.jpg',
       description: 'MPV elektrifikasi untuk keluarga besar'
-    },
-    {
-      tabName: 'SEALION 7',
-      name: 'BYD SEALION 7',
-      leftButtonName: 'Jelajahi',
-      rightButtonName: 'Test Drive',
-      tertiaryButton: 'Dapatkan Penawaran',
-      image: '/sealion7-hero.jpg',
-      description: 'SUV elektrifikasi premium dengan teknologi terdepan'
     }
   ];
 

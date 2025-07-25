@@ -18,6 +18,17 @@ const BYDProductGrid = () => {
 
   const models = [
     {
+      name: "ATTO 1",
+      image: "/atto1-hero.jpg",
+      specs: [
+        { label: "Hingga 380km*", subtitle: "Jarak (NEDC)" },
+        { label: "32.78 kWh*", subtitle: "Kapasitas Baterai" },
+        { label: "136 Nm*", subtitle: "Torsi Maksimum" },
+        { label: "FWD*", subtitle: "Penggerak Roda" }
+      ],
+      price: "IDR 195,000,000"
+    },
+    {
       name: "SEALION 7",
       image: "/sealion7-hero.jpg",
       specs: [
@@ -49,17 +60,6 @@ const BYDProductGrid = () => {
         { label: "FWD*", subtitle: "Penggerak Roda" }
       ],
       price: "IDR 390,000,000"
-    },
-    {
-      name: "ATTO 1",
-      image: "/atto1-hero.jpg",
-      specs: [
-        { label: "Hingga 380km*", subtitle: "Jarak (NEDC)" },
-        { label: "32.78 kWh*", subtitle: "Kapasitas Baterai" },
-        { label: "136 Nm*", subtitle: "Torsi Maksimum" },
-        { label: "FWD*", subtitle: "Penggerak Roda" }
-      ],
-      price: "IDR 195,000,000"
     },
     {
       name: "DOLPHIN",
